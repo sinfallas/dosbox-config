@@ -1,4 +1,16 @@
-commit 21f87ea43dbb7e4a335d94819b466accb002f327 (HEAD, origin/master, origin/HEAD, master)
+commit b5d9598076a8d94540a1e342d6d70bf2a1dc4e94 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 19:45:16 2015 -0430
+
+    * se agrega el archivo authors
+
+commit 17e81d8dc10a2e65954f00414ebc33c8fe7b0db3
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 19:44:47 2015 -0430
+
+    * changelog
+
+commit 21f87ea43dbb7e4a335d94819b466accb002f327
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Tue Jan 27 19:43:54 2015 -0430
 
