@@ -1,0 +1,11 @@
+commit 21f87ea43dbb7e4a335d94819b466accb002f327 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 19:43:54 2015 -0430
+
+    * se agregan los archivos correspondientes a la configuracion de dosbox
+
+commit d28ebe377742858bb548102902290a8c37443d9d
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Jan 27 19:39:03 2015 -0430
+
+    Initial commit
