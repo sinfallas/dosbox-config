@@ -1,4 +1,16 @@
-commit b5d9598076a8d94540a1e342d6d70bf2a1dc4e94 (HEAD, origin/master, origin/HEAD, master)
+commit 909f1e349aeb48c27460ea319805f374b503df9a (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 21:16:51 2015 -0430
+
+    * se modifica el archivo readme
+
+commit dc89c68a50c6d752425253ddaf3a0032d72ea6eb
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 19:45:31 2015 -0430
+
+    * changelog
+
+commit b5d9598076a8d94540a1e342d6d70bf2a1dc4e94
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Tue Jan 27 19:45:16 2015 -0430
 
