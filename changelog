@@ -1,4 +1,16 @@
-commit 909f1e349aeb48c27460ea319805f374b503df9a (HEAD, origin/master, origin/HEAD, master)
+commit 71053dc54ead071acbfac6d5323f722d8305ffde (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 21:28:11 2015 -0430
+
+    * se modifica la configuracion para desactivar el automontaje
+
+commit b74db02e81e10916682051a1129538c7bd827419
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 21:17:18 2015 -0430
+
+    * changelog
+
+commit 909f1e349aeb48c27460ea319805f374b503df9a
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Tue Jan 27 21:16:51 2015 -0430
 
