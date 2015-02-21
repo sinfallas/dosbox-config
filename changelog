@@ -1,10 +1,22 @@
-commit 71053dc54ead071acbfac6d5323f722d8305ffde (HEAD, origin/master, origin/HEAD, master)
+commit 52f062c49dec7fd7be41cc9b59b23281181bbaf7 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Feb 21 10:05:21 2015 -0430
+
+    * se agrega el manual de dosbox
+
+commit 79f11dba065e402945dde2c7c9a38984d05bd8a0
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 27 21:28:57 2015 -0430
+
+    * changelog
+
+commit 71053dc54ead071acbfac6d5323f722d8305ffde
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Tue Jan 27 21:28:11 2015 -0430
 
     * se modifica la configuracion para desactivar el automontaje
 
-commit b74db02e81e10916682051a1129538c7bd827419
+commit b74db02e81e10916682051a1129538c7bd827419 (tag: v0.1)
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Tue Jan 27 21:17:18 2015 -0430
 
