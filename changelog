@@ -1,4 +1,16 @@
-commit b53b8bec13e3ef91998cb665d50467563e854a94 (HEAD, origin/master, origin/HEAD, master)
+commit fa790f6ecbf54b7c7b729907671dc43ef282fa4a (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jan 28 17:05:09 2018 -0400
+
+    * se desactiva los parametros innecesarios
+
+commit 335d6b968045c485657e13217cbf1ecc3c7550b2 (tag: v0.2)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 20:29:27 2015 -0430
+
+    * changelog
+
+commit b53b8bec13e3ef91998cb665d50467563e854a94
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Dec 12 00:16:54 2015 -0430
 
