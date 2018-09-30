@@ -1,4 +1,16 @@
-commit fa790f6ecbf54b7c7b729907671dc43ef282fa4a (HEAD -> master, origin/master, origin/HEAD)
+commit 8d03610cbf450bc52a607d27faa8ed4ec9ca49e5 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Sep 28 14:28:27 2018 +0000
+
+    Agregar LICENSE
+
+commit 17b21d84574f53a3a845a76bfb350ae81b43c148
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jan 28 17:05:39 2018 -0400
+
+    * changelog
+
+commit fa790f6ecbf54b7c7b729907671dc43ef282fa4a
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Jan 28 17:05:09 2018 -0400
 
