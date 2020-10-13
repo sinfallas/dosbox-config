@@ -1,4 +1,16 @@
-commit 709e2eec03039b9ce79ce70326c672fb3f09c4a6 (HEAD -> master, origin/master, origin/HEAD)
+commit 55a77d9e56983c79a1cdb3e715cec6bc94fd340f (HEAD -> master, origin/master, origin/HEAD)
+Author: config <Palencia>
+Date:   Mon Oct 12 20:08:27 2020 -0400
+
+    * nuevos parametros
+
+commit cfa59456ffcd2144a5cc3185c06fea317c3415c7
+Author: config <Palencia>
+Date:   Mon Jul 6 22:05:55 2020 -0400
+
+    * changelog
+
+commit 709e2eec03039b9ce79ce70326c672fb3f09c4a6
 Author: config <Palencia>
 Date:   Mon Jul 6 21:43:35 2020 -0400
 
