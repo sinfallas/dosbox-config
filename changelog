@@ -1,4 +1,10 @@
-commit 30d1eae93fa3a6bd3764ed8b86622c0c0acacc11 (HEAD -> master, origin/master, origin/HEAD)
+commit a339f215870aa5f4b10eae42ae7b920a4087168f (HEAD -> master, origin/master, origin/HEAD)
+Author: Jesus <sinfallas@gmail.com>
+Date:   Sun Jan 31 16:08:09 2021 -0400
+
+    * changelog
+
+commit 30d1eae93fa3a6bd3764ed8b86622c0c0acacc11
 Author: config <Palencia>
 Date:   Fri Oct 16 16:17:32 2020 -0400
 
